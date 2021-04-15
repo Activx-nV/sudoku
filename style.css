@@ -88,10 +88,10 @@ button:hover {
     background-color: rgba(255, 255, 255, 0.25);
 }
 
-@media (max-width: 1900px) {
+@media (max-width: 1920px) {
     .sudoku-game {
-        width: 50vw !important;
-        height: 40vw !important;
+        width: 45vw !important;
+        height: 30vw !important;
     }
 }
 
